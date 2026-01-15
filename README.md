@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonathan Knowles
 
-I'm a software engineer and functional programming enthusiast based in **Hualien, Taiwan**.
+I'm a software engineer and functional programming enthusiast based in **Taiwan**.
 
 I'm passionate about building software that is **reliable** and **correct**.
 
@@ -37,7 +37,7 @@ There are several complementary packages:
 |--|--|
 | 📦 [`haskell-calculator`](https://github.com/jonathanknowles/haskell-calculator) | Functional reactive calculator with expression visualization. |
 | 📦 [`haskell-example`](https://github.com/jonathanknowles/haskell-example) | Haskell CI template, ready to fork and go. |
-| 📦 [`roc-id`](https://github.com/jonathanknowles/roc-id) | Implementation of the ROC (Taiwan) Uniform Identification Number (中華民國統一證號) format. |
+| 📦 [`roc-id`](https://github.com/jonathanknowles/roc-id) | Implementation of the ROC (Taiwan) UID Number (中華民國統一證號) format. |
 
 # 📫 Connect
 
