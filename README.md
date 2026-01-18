@@ -10,18 +10,18 @@ I'm the maintainer of several Haskell packages:
 
 ### `monoidmap`
 
-The [`monoidmap`](https://hackage.haskell.org/package/monoidmap) package provides the [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) type, which represents a total function from keys to monoidal values with finite support and a default of `mempty`.
+The [`monoidmap`](https://github.com/jonathanknowles/monoidmap) package provides the [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) type, which represents a total function from keys to monoidal values with finite support and a default of `mempty`.
 
 There are several complementary packages:
 
 | Package | Description |
 |--|--|
-| 📦 [`monoidmap`](https://hackage.haskell.org/package/monoidmap) | Provides the core [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) data type and functions. |
-| 📦 [`monoidmap-examples`](https://hackage.haskell.org/package/monoidmap-examples) | Provides worked examples of how to use [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1). |
-| 📦 [`monoidmap-aeson`](https://hackage.haskell.org/package/monoidmap-aeson) | Provides support for JSON encoding with [`aeson`](https://hackage.haskell.org/package/aeson). |
-| 📦 [`monoidmap-hashable`](https://hackage.haskell.org/package/monoidmap-hashable) | Provides support for in-memory hashing with [`hashable`](https://hackage.haskell.org/package/hashable). |
-| 📦 [`monoidmap-quickcheck`](https://hackage.haskell.org/package/monoidmap-quickcheck) | Provides support for property testing with [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
-| 📦 [`monoidmap-internal`](https://hackage.haskell.org/package/monoidmap-internal) | Provides low-level internal functions. 🐉  |
+| 📦 [`monoidmap`](https://github.com/jonathanknowles/monoidmap) | Provides the core [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) data type and functions. |
+| 📦 [`monoidmap-examples`](https://github.com/jonathanknowles/monoidmap-examples) | Provides worked examples of how to use [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1). |
+| 📦 [`monoidmap-aeson`](https://github.com/jonathanknowles/monoidmap-aeson) | Provides support for JSON encoding with [`aeson`](https://hackage.haskell.org/package/aeson). |
+| 📦 [`monoidmap-hashable`](https://github.com/jonathanknowles/monoidmap-hashable) | Provides support for in-memory hashing with [`hashable`](https://hackage.haskell.org/package/hashable). |
+| 📦 [`monoidmap-quickcheck`](https://github.com/jonathanknowles/monoidmap-quickcheck) | Provides support for property testing with [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
+| 📦 [`monoidmap-internal`](https://github.com/jonathanknowles/monoidmap-internal) | Provides low-level internal functions. 🐉  |
 
 ### Property Testing
 
