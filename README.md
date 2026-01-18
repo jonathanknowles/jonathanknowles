@@ -27,15 +27,15 @@ There are several complementary packages:
 
 | Package | Description |
 |--|--|
-| 📦 [`quickcheck-groups`](https://hackage.haskell.org/package/quickcheck-groups) | [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck) support for the [`groups`](https://hackage.haskell.org/package/groups) library. |
-| 📦 [`quickcheck-monoid-subclasses`](https://hackage.haskell.org/package/quickcheck-monoid-subclasses) | [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck) support for the [`monoid-subclasses`](https://hackage.haskell.org/package/monoid-subclasses) library. |
-| 📦 [`quickcheck-quid`](https://hackage.haskell.org/package/quickcheck-quid) | Quasi-unique identifiers for [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
+| 📦 [`quickcheck-groups`](https://github.com/jonathanknowles/quickcheck-groups) | [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck) support for the [`groups`](https://hackage.haskell.org/package/groups) library. |
+| 📦 [`quickcheck-monoid-subclasses`](https://github.com/jonathanknowles/quickcheck-monoid-subclasses) | [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck) support for the [`monoid-subclasses`](https://hackage.haskell.org/package/monoid-subclasses) library. |
+| 📦 [`quickcheck-quid`](https://github.com/jonathanknowles/quickcheck-quid) | Quasi-unique identifiers for [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
 
 ### Miscellaneous
 
 | Package | Description |
 |--|--|
-| 📦 [`bech32`](https://hackage.haskell.org/package/bech32) | Support for the Bech32 encoding standard. |
+| 📦 [`bech32`](https://github.com/IntersectMBO/bech32) | Support for the Bech32 encoding standard. |
 | 📦 [`haskell-calculator`](https://github.com/jonathanknowles/haskell-calculator) | Functional reactive calculator with expression visualization. |
 | 📦 [`haskell-example`](https://github.com/jonathanknowles/haskell-example) | Haskell CI template, ready to fork and go. |
 | 📦 [`roc-id`](https://github.com/jonathanknowles/roc-id) | Implementation of the ROC (Taiwan) UID Number (中華民國統一證號) format. |
