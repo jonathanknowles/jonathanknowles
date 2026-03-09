@@ -38,7 +38,7 @@ There are several complementary packages:
 | 📦 [`bech32`](https://github.com/IntersectMBO/bech32) | Support for the Bech32 encoding standard. |
 | 📦 [`haskell-calculator`](https://github.com/jonathanknowles/haskell-calculator) | Functional reactive calculator with expression visualization. |
 | 📦 [`haskell-example`](https://github.com/jonathanknowles/haskell-example) | Haskell CI template, ready to fork and go. |
-| 📦 [`roc-id`](https://github.com/jonathanknowles/roc-id) | Implementation of the ROC (Taiwan) UID Number (中華民國統一證號) format. |
+| 📦 [`taiwan-id`](https://github.com/jonathanknowles/taiwan-id) | Implementation of Taiwan's uniform ID number (中華民國統一證號) format. 🇹🇼 |
 
 # 📫 Connect
 
