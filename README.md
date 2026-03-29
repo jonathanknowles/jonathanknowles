@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonathan Knowles
 
-I'm a software engineer and functional programming enthusiast based in **Taiwan**.
+I'm a software engineer specialising in functional programming, based in **Taiwan**.
 
 I'm passionate about building software that is **reliable** and **correct**.
 
