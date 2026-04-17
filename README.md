@@ -30,6 +30,7 @@ There are several complementary packages:
 | 📦 [`quickcheck-groups`](https://github.com/jonathanknowles/quickcheck-groups) | [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck) support for the [`groups`](https://hackage.haskell.org/package/groups) library. |
 | 📦 [`quickcheck-monoid-subclasses`](https://github.com/jonathanknowles/quickcheck-monoid-subclasses) | [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck) support for the [`monoid-subclasses`](https://hackage.haskell.org/package/monoid-subclasses) library. |
 | 📦 [`quickcheck-quid`](https://github.com/jonathanknowles/quickcheck-quid) | Quasi-unique identifiers for [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
+| 📦 [`hspec-quickcheck-classes`](https://github.com/jonathanknowles/hspec-quickcheck-classes) | Integration between [`hspec`](https://hackage.haskell.org/package/hspec) and [`quickcheck-classes`](https://hackage.haskell.org/package/quickcheck-classes). |
 
 ### Miscellaneous
 
