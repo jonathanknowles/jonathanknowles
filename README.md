@@ -16,7 +16,7 @@ There are several complementary packages:
 
 | Package | Description |
 |--|--|
-| 📦 [`monoidmap`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap) | The core [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) type and functions. |
+| 📦 [`monoidmap`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap) | Core [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) type and functions. |
 | 📦 [`monoidmap-examples`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-examples) | Examples of using [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1). |
 | 📦 [`monoidmap-aeson`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-aeson) | JSON encoding with [`aeson`](https://hackage.haskell.org/package/aeson). |
 | 📦 [`monoidmap-hashable`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-hashable) | In-memory hashing with [`hashable`](https://hackage.haskell.org/package/hashable). |
