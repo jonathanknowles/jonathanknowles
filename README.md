@@ -16,12 +16,12 @@ There are several complementary packages:
 
 | Package | Description |
 |--|--|
-| 📦 [`monoidmap`](https://github.com/jonathanknowles/monoidmap) | Provides the core [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) data type and functions. |
-| 📦 [`monoidmap-examples`](https://github.com/jonathanknowles/monoidmap-examples) | Provides worked examples of how to use [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1). |
-| 📦 [`monoidmap-aeson`](https://github.com/jonathanknowles/monoidmap-aeson) | Provides support for JSON encoding with [`aeson`](https://hackage.haskell.org/package/aeson). |
-| 📦 [`monoidmap-hashable`](https://github.com/jonathanknowles/monoidmap-hashable) | Provides support for in-memory hashing with [`hashable`](https://hackage.haskell.org/package/hashable). |
-| 📦 [`monoidmap-quickcheck`](https://github.com/jonathanknowles/monoidmap-quickcheck) | Provides support for property testing with [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
-| 📦 [`monoidmap-internal`](https://github.com/jonathanknowles/monoidmap-internal) | Provides low-level internal functions. 🐉  |
+| 📦 [`monoidmap`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap) | The core [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1) type and functions. |
+| 📦 [`monoidmap-examples`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-examples) | Examples of using [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1). |
+| 📦 [`monoidmap-aeson`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-aeson) | JSON encoding with [`aeson`](https://hackage.haskell.org/package/aeson). |
+| 📦 [`monoidmap-hashable`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-hashable) | In-memory hashing with [`hashable`](https://hackage.haskell.org/package/hashable). |
+| 📦 [`monoidmap-quickcheck`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-quickcheck) | Property testing with [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
+| 📦 [`monoidmap-internal`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-internal) | Low-level internals. 🐉 |
 
 ### Property Testing
 
