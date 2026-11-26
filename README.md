@@ -20,6 +20,7 @@ There are several complementary packages:
 | 📦 [`monoidmap-examples`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-examples) | Examples of using [`MonoidMap`](https://hackage-content.haskell.org/package/monoidmap/docs/Data-MonoidMap.html#g:1). |
 | 📦 [`monoidmap-aeson`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-aeson) | JSON encoding with [`aeson`](https://hackage.haskell.org/package/aeson). |
 | 📦 [`monoidmap-hashable`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-hashable) | In-memory hashing with [`hashable`](https://hackage.haskell.org/package/hashable). |
+| 📦 [`monoidmap-nothunks`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-nothunks) | Thunk detection with [`nothunks`](https://hackage.haskell.org/package/nothunks). |
 | 📦 [`monoidmap-quickcheck`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-quickcheck) | Property testing with [`QuickCheck`](https://hackage.haskell.org/package/QuickCheck). |
 | 📦 [`monoidmap-internal`](https://github.com/jonathanknowles/monoidmap/tree/main/packages/monoidmap-internal) | Low-level internals. 🐉 |
 
